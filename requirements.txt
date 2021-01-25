@@ -47,7 +47,7 @@ six==1.15.0
 soupsieve==2.1
 spacy==2.3.5
 srsly==1.0.5
-streamlit==0.75.0
+streamlit
 thinc==7.4.5
 threadpoolctl==2.1.0
 torch==1.7.1+cpu
