@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41c38be3-57e1-4ae3-8ab5-06eae1c52ccd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../config.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../../config.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/post/curaio_clean.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../content/post/curaio_clean.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/post/curaio_clean/static/curaio_clean_17_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/post/curaio_clean/static/curaio_clean_20_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/post/curaio_clean/static/curaio_clean_26_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/post/curaio_clean/static/curaio_clean_26_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/post/curaio_clean/static/curaio_clean_30_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/post/curaio_clean/static/curaio_clean_30_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/post/curaio_clean/static/curaio_clean_34_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/post/curaio_clean/static/curaio_clean_51_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/post/curaio_clean/static/curaio_clean_59_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/post/curaio_clean/static/curaio_clean_67_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/post/curaio_clean/static/curaio_clean_72_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../content/post/curaio_clean_collapse.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../curaio/curaio_clean.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_12_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_14_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_18_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_18_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_21_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_21_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_24_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_26_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_26_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_30_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_30_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_34_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_38_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_44_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_49_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_51_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_53_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_59_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_67_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/curaio_clean_72_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_10_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_11_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_13_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_14_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_14_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_17_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_17_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_20_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_20_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_23_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_36_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_38_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_42_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_44_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_47_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_49_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_51_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_53_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../themes/anatole" beforeDir="false" afterPath="$PROJECT_DIR$/../../themes/anatole" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1nWS2Nbe1xmmO0vusUZ3j3YdrIJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41c38be3-57e1-4ae3-8ab5-06eae1c52ccd" name="Default Changelist" comment="" />
+      <created>1611504146312</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1611504146312</updated>
+    </task>
+    <servers />
+  </component>
+</project>
