@@ -1,5 +1,3 @@
 -f https://download.pytorch.org/whl/torch_stable.html
 fastai==2.1.9
-fastcore==1.3.12
-fastprogress==1.0.0
 sentencepiece
