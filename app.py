@@ -32,5 +32,3 @@ with st.beta_container():
             st.image(img, use_column_width=True)
             st.info("The song's genre is " + pred)
 
-import requests
-model = requests.get("https://github.com/tlary/genre-streamlit/blob/main/genreModel.pkl?raw=true")
