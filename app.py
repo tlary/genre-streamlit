@@ -2,10 +2,13 @@ import streamlit as st
 import pickle
 from fastai.text.all import *
 import sentencepiece
+import requests
 
 st.title("Classify your (German) lyrics! :tada::microphone::notes:")
 
-learn_inf = load_learner("genreModel.pkl")
+model = requests.get("https://github.com/tlary/genre-streamlit/blob/main/genreModel.pkl?raw=true")
+learn_inf = load_learner(model)
+#learn_inf = load_learner("genreModel.pkl")
 images = "./static/"
 
 expander = st.beta_expander("Lyrics")
@@ -28,3 +31,6 @@ with st.beta_container():
                 pred = pred.capitalize()
             st.image(img, use_column_width=True)
             st.info("The song's genre is " + pred)
+
+import requests
+model = requests.get("https://github.com/tlary/genre-streamlit/blob/main/genreModel.pkl?raw=true")

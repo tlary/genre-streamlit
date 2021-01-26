@@ -55,6 +55,8 @@
       <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_49_0.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_51_0.png" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../curaio/curaio_clean_files/output_53_0.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../themes/anatole" beforeDir="false" afterPath="$PROJECT_DIR$/../../themes/anatole" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +65,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1nWS2Nbe1xmmO0vusUZ3j3YdrIJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
