@@ -1,4 +1,2 @@
-streamlit
 fastai
 sentencepiece
-pickle
