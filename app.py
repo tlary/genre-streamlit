@@ -7,28 +7,17 @@ from io import BytesIO
 
 st.title("Classify your (German) lyrics! :tada::microphone::notes:")
 
-# load model from github repo
-
+# download model from Dropbox, cache it and load the model into the app
 @st.cache(allow_output_mutation=True)
 def load_model(url):
     modelLink = url
     model = requests.get(modelLink).content
     return model
-        
-#    modelFile = BytesIO(requests.get(modelLink).content)
-#    return modelFile
-
-    
-#modelLink = "https://github.com/tlary/genre-streamlit/blob/main/genreModel.pkl?raw=true"
-#modelLink = "https://www.dl.dropboxusercontent.com/s/v6ezoyjpibrzjvu/genreModel.pkl?dl=0"
-#modelFile = BytesIO(requests.get(modelLink).content)
-#learn_inf = load_learner(modelFile)
-
-#learn_inf = load_learner("genreModel.pkl")
-
 modelFile = load_model("https://www.dl.dropboxusercontent.com/s/v6ezoyjpibrzjvu/genreModel.pkl?dl=0")
 model = BytesIO(modelFile)
 learn_inf = load_learner(model)
+
+# point to the images
 images = "./static/"
 
 expander = st.beta_expander("Lyrics")
