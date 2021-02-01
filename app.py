@@ -9,10 +9,17 @@ st.title("Classify your (German) lyrics! :tada::microphone::notes:")
 
 # load model from github repo
 
+@st.cache
+def load_model(url):
+    modelLink = "https://www.dl.dropboxusercontent.com/s/v6ezoyjpibrzjvu/genreModel.pkl?dl=0"
+    modelFile = BytesIO(requests.get(modelLink).content)
+    learn_inf = load_learner(modelFile)
+    
+    
 #modelLink = "https://github.com/tlary/genre-streamlit/blob/main/genreModel.pkl?raw=true"
-modelLink = "https://www.dl.dropboxusercontent.com/s/v6ezoyjpibrzjvu/genreModel.pkl?dl=0"
-modelFile = BytesIO(requests.get(modelLink).content)
-learn_inf = load_learner(modelFile)
+#modelLink = "https://www.dl.dropboxusercontent.com/s/v6ezoyjpibrzjvu/genreModel.pkl?dl=0"
+#modelFile = BytesIO(requests.get(modelLink).content)
+#learn_inf = load_learner(modelFile)
 
 #learn_inf = load_learner("genreModel.pkl")
 images = "./static/"
