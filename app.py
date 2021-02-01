@@ -6,7 +6,8 @@ import requests
 
 st.title("Classify your (German) lyrics! :tada::microphone::notes:")
 
-model = requests.get("https://github.com/tlary/genre-streamlit/blob/main/genreModel.pkl?raw=true")
+#model = requests.get("https://github.com/tlary/genre-streamlit/blob/main/genreModel.pkl?raw=true")
+model = requests.get("https://www.dropbox.com/s/v6ezoyjpibrzjvu/genreModel.pkl?dl=0")
 learn_inf = load_learner(model)
 #learn_inf = load_learner("genreModel.pkl")
 images = "./static/"
